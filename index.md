@@ -1,4 +1,6 @@
-# John "Jack" Aubrey
+# John "Jack" Aubrey  
+
+![Filmplakat: Master and Commander](../image/ja1.jpg)
 
 Jack Aurey ist eine der fiktionalen Hauptfiguren in der Aubrey-Maturin-Reihe der Romane von Patrick O'Brian.  Die andere Hauptfigur ist sein bester Freund Stephen Maturin. Die Geschchte spielt am Anfang des 19. Jahrhunderts. Jack Aubrey ist Offizier der britischen Kriegsmarine im 19. Jahrhundert und Stepen Maturin Wissenschaftler und Arzt.
 
