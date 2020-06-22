@@ -33,6 +33,7 @@ Die 21 Bände der Romanserie wurden zwischen 1969 und 2004 geschrieben. Sie besc
 | 	Der unvollendete Band 21: Aubrey und Maturin	| 	The Final Unfinished Voyage of Jack Aubrey (2004) – (21 in the US)	| 
 | 	-------------	| 	-------------	| 
 
+Die Bände wurden auch in andere Sprachen wie "Französisch", "Italienisch" oder "Spanisch" übersetzt. Der Autor dieser [Website](https://www.jack-aubrey-stephen-maturin-serie.de/) hat die entsprechenden Titel aufgelistet.  
 
 ## Patrick O'Brian  
 
@@ -91,9 +92,14 @@ Er zitierte auch gerne sein grosses Vorbild Horatio Nelson mit dem Ausspruch
 
  >"Never mind manoeuvres, always go at them" / Vergesst die Manöver! Immer drauf auf den Feind!  
 
-Die liebevolle Akribie und Sachkenntnis des Schrifstellers erkennt man auch daran, dass er in späteren Jahren zugibt, dass das Motto gegen die aktuelle französische Marine nicht mehr anwendbar ist. Inzwischen hatten sie erkannt, dass Artillerie in Seegefechten entscheident war. D.h. ein hitziger Angriff auf eine französische Flotte, würde durch punktgenauen Beschuss zum Desaster werden.  
+Die liebevolle Akribie und Sachkenntnis des Schrifstellers erkennt man auch daran, dass er Jack Aubrey in seinen späteren Jahren zugeben lässt, dass das Motto gegen die aktuelle französische Marine nicht mehr anwendbar ist. Inzwischen hatten sie erkannt, dass Artillerie in Seegefechten entscheident war. D.h. ein hitziger Angriff auf eine französische Flotte, würde durch punktgenauen Beschuss zum Desaster werden.  
+
+### Quellen
 
 
+### Hinweise  
+
+* Dieser Artikel wurde Schweizer Schriftdeutsch verfasst. Daher wird z.B. kein scharfes "s" (ẞ bzw. ß) verwendet.  
 
 
 
