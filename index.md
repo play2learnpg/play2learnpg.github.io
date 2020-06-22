@@ -33,12 +33,19 @@ Die 21 Bände der Romanserie wurden zwischen 1969 und 2004 geschrieben. Sie besc
 | 	Der unvollendete Band 21: Aubrey und Maturin	| 	The Final Unfinished Voyage of Jack Aubrey (2004) – (21 in the US)	| 
 | 	-------------	| 	-------------	| 
 
+Die Bände wurden auch in andere Sprachen wie "Französisch", "Italienisch" oder "Spanisch" übersetzt. Der Autor dieser [Website](https://www.jack-aubrey-stephen-maturin-serie.de/) hat die entsprechenden Titel aufgelistet.  
 
 ## Patrick O'Brian  
 
 Der Schriftsteller Patrick O'Brian hat die Welt im vorviktoranischen England genau recherchiert. Er hat sich im britischen Staatsarchiv genau über Britische Navy und die Geschichte der einzelnen Schiffe recherchiert. Analog zum stimmigen Film "Master and Commander" gibt es wenig Schlachten oder heroische Momente.  
 
 Anders als bei Sherlock Holmes und Dr. Watson sind sich die zwei Protagonisten ebenbürtig. Im Verlauf der 20 Bücher erfährt man, dass Jack Aubrey ein grosses Faible für Astronomie und Mathematik hat. Darüber auch bereits an der Royal Society einen Vortrag gehalten hat. Stephen Maturin entpuppt sich als Geheimagent, Kämpfer und leidenschaftlichen Forscher. Analog Humbold nutzt er das Kriegsschiff, um die Natur in fernen Ländern zu erkunden.  
+
+Wer mehr über den Autor wissen will, findet auf der Website ["The Patrick O'Brian Compendium"](https://www.patrickobrian.com/) viele spannende Informationen. Da die Serie im englischen Sprachraum sehr erfolgreich ist, findet man dort auch verschiedene Bücher dazu. Eine Auswahl:    
+
++ "Patrick O’Brian: A Very Private Life" - Nikolai Tolstoy - isbn:9780008350581  
++ "A Sea of Words: A Lexicon and Companion to the Complete Seafaring Tales of Patrick O'Brian" - Dean King & John B. Hattendorf - isbn:9781453238301  
++ "The World of Jack Aubrey" - David Miller - isbn:9780762416523  
 
 ## Aspekte der Buchserie  
 
@@ -48,16 +55,16 @@ Die kleine Welt an Bord eines Schiffes hat genau wie die grosse Welt Regeln. Die
 
 Analog einem Raumschiff ist ein Segelschiff eine Welt in sich. Dem Wetter ausgesetzt und ohne Kommunikation mit der Aussenwelt. So wie alles von Menschen produzierte, sind die Schiffe unterschiedlich. Sie stammen aus verschiedenen Ländern (gekapert, etc.), von verschiedenen Reedereien, mit verschiedenen Hölzern, unterschiedliche Schiffstypen, etc. Auf der [Website](https://www.ctbasses.com/misc/BruceTrinque/) von Bruce Trinque sind die Schiffe en Detail beschrieben:  
 
-- HMS Sophie  
-- HMS Polychrest  
-- HMS Lively  
-- HMS Surprise  
-- HMS Boadicea  
-- HMS Raisonable  
-- HMS Leopard  
-- HMS Ariel  
-- HMS Worcester  
-- East India Company Ship Niobe  
+* HMS Sophie  
+* HMS Polychrest  
+* HMS Lively  
+* HMS Surprise  
+* HMS Boadicea  
+* HMS Raisonable  
+* HMS Leopard  
+* HMS Ariel  
+* HMS Worcester  
+* East India Company Ship Niobe  
 
 ### Freundschaft  
 
@@ -67,5 +74,32 @@ Jack ist eine Frohnatur, liebt das barocke Leben. Stephen Maturin ist von mürri
 
 Was sie von Anfang verband, war ihr gemeinsame Liebe zur Musik die sie aktiv betreiben. Das gemeinsame Muszieren am Abend, sofern dafür Zeit war, sublimierte alle Mühen und Nöte des Tages in eine höhere Harmonie.  
 
-### Geografie  
+### "Geflügelte Worte"  
+
+Was wären "Asterix & Obelix" ohne die sich wiederholenden Aussprüch wie "Sie spinnen die Römer".  
+
+Jack Aubrey bzw. sein Autor hat zwei Aussrüchen öfters wiederholt:  
+
+>There is not a moment to lose 
+ 
+>There you are!  
+
+Das erste war quasi der Kickoff zu einem neuen Abenteuer, wo die Schiffsbesatzung innert Stunden von Heim, Herd oder Bordellen an Board musste. Aber auch die oft wiederholte Antwort, wenn sein Freund Stephen Maturin einen Zwischenstopp machen wollte, um ein Tier, Pflanze oder Gebiet zu erkunden.  
+
+Der zweite Ausspruch fiel öfters, wenn er überrascht war Stephen Maturin zu sehen. Stephen Maturin hatte eine sich verstärkende Tendenz zu einem zerstreuten Professor, so dass er manchmal "verloren" ging oder schlicht zu spät an Bord kam.  
+
+Er zitierte auch gerne sein grosses Vorbild Horatio Nelson mit dem Ausspruch
+
+ >"Never mind manoeuvres, always go at them" / Vergesst die Manöver! Immer drauf auf den Feind!  
+
+Die liebevolle Akribie und Sachkenntnis des Schrifstellers erkennt man auch daran, dass er Jack Aubrey in seinen späteren Jahren zugeben lässt, dass das Motto gegen die aktuelle französische Marine nicht mehr anwendbar ist. Inzwischen hatten sie erkannt, dass Artillerie in Seegefechten entscheident war. D.h. ein hitziger Angriff auf eine französische Flotte, würde durch punktgenauen Beschuss zum Desaster werden.  
+
+### Quellen
+
+
+### Hinweise  
+
+* Dieser Artikel wurde in Schweizer Schriftdeutsch verfasst. Daher wird z.B. kein scharfes "s" (ẞ bzw. ß) verwendet.  
+
+
 
