@@ -1,12 +1,14 @@
 # John "Jack" Aubrey  
 
-![Filmplakat: Master and Commander](/image/ja1.jpeg)
+<img src="play2learnpg.github.io/image/ja1.jpeg"/>
 
 Jack Aurey ist eine der fiktionalen Hauptfiguren in der Aubrey-Maturin-Reihe der Romane von Patrick O'Brian.  Die andere Hauptfigur ist sein bester Freund Stephen Maturin. Die Geschchte spielt am Anfang des 19. Jahrhunderts. Jack Aubrey ist Offizier der britischen Kriegsmarine im 19. Jahrhundert und Stepen Maturin Wissenschaftler und Arzt.
 
 ## Worin liegt der Reiz der Geschichten?  
 
-Die 21 Bände der Romanserie wurden zwischen 1969 und 2004 geschrieben. Sie beschreiben das Leben das die zwei ab Anfang des 19. Jahrhunderts führen. Verschiedene Kriegsschiffe führen Sie in verschiedene Weltteile, wo sie nicht nur kriegerische Abenteuer und manchmal auf verschiedenen Wegen bestehen müssen. England führt zu dieser Zeit [Krieg](https://de.wikipedia.org/wiki/Geschichte_der_Royal_Navy#Die_Kriege_mit_Frankreich_und_den_USA_von_1756_bis_1815) mit Frankreich (Napoleon) und den USA
+Die 21 Bände der Romanserie wurden zwischen 1969 und 2004 geschrieben. Sie beschreiben das Leben das die zwei ab Anfang des 19. Jahrhunderts führen. Verschiedene Kriegsschiffe führen Sie in verschiedene Weltteile, wo sie nicht nur kriegerische Abenteuer und manchmal auf verschiedenen Wegen bestehen müssen. England führt zu dieser Zeit [Krieg](https://de.wikipedia.org/wiki/Geschichte_der_Royal_Navy#Die_Kriege_mit_Frankreich_und_den_USA_von_1756_bis_1815) mit Frankreich (Napoleon) und den USA.  
+
+Aber auch die Situation der Menschen auf den Schiffen und in England wird geschildert. Man erfährt wie Jack Aubrey Vater wird, seine Frau mit seiner jahrelangen Abwesenheit und finanziellen Engpässen zu kämpfen hat. Die Bürokratie der Marine, die Macht der Politik und Beziehungen, der Kampf um die Karriere und Prisen, Vorräte und das Trinkwasser gehen zur Neige, Stürme und unbekannte Riffe sind in die spannenden Geschichten eingeflossen.  
 
 | 	Deutsch	| 	Englisch	| 
 | 	-------------	| 	-------------	| 
@@ -55,16 +57,16 @@ Die kleine Welt an Bord eines Schiffes hat genau wie die grosse Welt Regeln. Die
 
 Analog einem Raumschiff ist ein Segelschiff eine Welt in sich. Dem Wetter ausgesetzt und ohne Kommunikation mit der Aussenwelt. So wie alles von Menschen produzierte, sind die Schiffe unterschiedlich. Sie stammen aus verschiedenen Ländern (gekapert, etc.), von verschiedenen Reedereien, mit verschiedenen Hölzern, unterschiedliche Schiffstypen, etc. Auf der [Website](https://www.ctbasses.com/misc/BruceTrinque/) von Bruce Trinque sind die Schiffe en Detail beschrieben:  
 
-* HMS Sophie  
-* HMS Polychrest  
-* HMS Lively  
-* HMS Surprise  
-* HMS Boadicea  
-* HMS Raisonable  
-* HMS Leopard  
-* HMS Ariel  
-* HMS Worcester  
-* East India Company Ship Niobe  
+- HMS Sophie  
+- HMS Polychrest  
+- HMS Lively  
+- HMS Surprise  
+- HMS Boadicea  
+- HMS Raisonable  
+- HMS Leopard  
+- HMS Ariel  
+- HMS Worcester  
+- East India Company Ship Niobe  
 
 ### Freundschaft  
 
