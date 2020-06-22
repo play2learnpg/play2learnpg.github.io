@@ -6,7 +6,7 @@ Jack Aurey ist eine der fiktionalen Hauptfiguren in der Aubrey-Maturin-Reihe der
 
 ## Worin liegt der Reiz der Geschichten?  
 
-Die 21 Bände der Romanserie wurden zwischen 1969 und 2004 geschrieben.
+Die 21 Bände der Romanserie wurden zwischen 1969 und 2004 geschrieben. Sie beschreiben das Leben das die zwei ab Anfang des 19. Jahrhunderts führen. Verschiedene Kriegsschiffe führen Sie in verschiedene Weltteile, wo sie nicht nur kriegerische Abenteuer und manchmal auf verschiedenen Wegen bestehen müssen. England führt zu dieser Zeit [Krieg](https://de.wikipedia.org/wiki/Geschichte_der_Royal_Navy#Die_Kriege_mit_Frankreich_und_den_USA_von_1756_bis_1815) mit Frankreich (Napoleon) und den USA
 
 | 	Deutsch	| 	Englisch	| 
 | 	-------------	| 	-------------	| 
@@ -40,7 +40,24 @@ Der Schriftsteller Patrick O'Brian hat die Welt im vorviktoranischen England gen
 
 Anders als bei Sherlock Holmes und Dr. Watson sind sich die zwei Protagonisten ebenbürtig. Im Verlauf der 20 Bücher erfährt man, dass Jack Aubrey ein grosses Faible für Astronomie und Mathematik hat. Darüber auch bereits an der Royal Society einen Vortrag gehalten hat. Stephen Maturin entpuppt sich als Geheimagent, Kämpfer und leidenschaftlichen Forscher. Analog Humbold nutzt er das Kriegsschiff, um die Natur in fernen Ländern zu erkunden.  
 
+## Aspekte der Buchserie  
+
 Die kleine Welt an Bord eines Schiffes hat genau wie die grosse Welt Regeln. Die eingehalten werden müssen, damit alle auf einem "glücklichen" Schiff segeln. Vielleicht kann man das eine oder andere auf die eigene Situation übertragen. Lernen kann man in diesen Büchern viel. Nicht zuletzt weil sie mit grösster Akribie recherchiert und geschrieben wurden.  
+
+### Schiffe  
+
+Analog einem Raumschiff ist ein Segelschiff eine Welt in sich. Dem Wetter ausgesetzt und ohne Kommunikation mit der Aussenwelt. So wie alles von Menschen produzierte, sind die Schiffe unterschiedlich. Sie stammen aus verschiedenen Ländern (gekapert, etc.), von verschiedenen Reedereien, mit verschiedenen Hölzern, unterschiedliche Schiffstypen, etc. Auf der [Website](https://www.ctbasses.com/misc/BruceTrinque/) von Bruce Trinque sind die Schiffe en Detail beschrieben:  
+
+- HMS Sophie  
+- HMS Polychrest  
+- HMS Lively  
+- HMS Surprise  
+- HMS Boadicea  
+- HMS Raisonable  
+- HMS Leopard  
+- HMS Ariel  
+- HMS Worcester  
+- East India Company Ship Niobe  
 
 ### Freundschaft  
 
