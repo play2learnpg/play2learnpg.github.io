@@ -55,16 +55,16 @@ Die kleine Welt an Bord eines Schiffes hat genau wie die grosse Welt Regeln. Die
 
 Analog einem Raumschiff ist ein Segelschiff eine Welt in sich. Dem Wetter ausgesetzt und ohne Kommunikation mit der Aussenwelt. So wie alles von Menschen produzierte, sind die Schiffe unterschiedlich. Sie stammen aus verschiedenen Ländern (gekapert, etc.), von verschiedenen Reedereien, mit verschiedenen Hölzern, unterschiedliche Schiffstypen, etc. Auf der [Website](https://www.ctbasses.com/misc/BruceTrinque/) von Bruce Trinque sind die Schiffe en Detail beschrieben:  
 
-- HMS Sophie  
-- HMS Polychrest  
-- HMS Lively  
-- HMS Surprise  
-- HMS Boadicea  
-- HMS Raisonable  
-- HMS Leopard  
-- HMS Ariel  
-- HMS Worcester  
-- East India Company Ship Niobe  
+* HMS Sophie  
+* HMS Polychrest  
+* HMS Lively  
+* HMS Surprise  
+* HMS Boadicea  
+* HMS Raisonable  
+* HMS Leopard  
+* HMS Ariel  
+* HMS Worcester  
+* East India Company Ship Niobe  
 
 ### Freundschaft  
 
