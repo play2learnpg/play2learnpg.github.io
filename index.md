@@ -99,7 +99,8 @@ Die liebevolle Akribie und Sachkenntnis des Schrifstellers erkennt man auch dara
 
 ### Hinweise  
 
-* Dieser Artikel wurde in Schweizer Schriftdeutsch verfasst. Daher wird z.B. kein scharfes "s" (ẞ bzw. ß) verwendet.  
+* Dieser Artikel wurde Schweizer Schriftdeutsch verfasst. Daher wird z.B. kein scharfes "s" (ẞ bzw. ß) verwendet.  
+
 
 
 
