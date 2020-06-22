@@ -40,6 +40,12 @@ Der Schriftsteller Patrick O'Brian hat die Welt im vorviktoranischen England gen
 
 Anders als bei Sherlock Holmes und Dr. Watson sind sich die zwei Protagonisten ebenbürtig. Im Verlauf der 20 Bücher erfährt man, dass Jack Aubrey ein grosses Faible für Astronomie und Mathematik hat. Darüber auch bereits an der Royal Society einen Vortrag gehalten hat. Stephen Maturin entpuppt sich als Geheimagent, Kämpfer und leidenschaftlichen Forscher. Analog Humbold nutzt er das Kriegsschiff, um die Natur in fernen Ländern zu erkunden.  
 
+Wer mehr über den Autor wissen will, findet auf der Website ["The Patrick O'Brian Compendium"](https://www.patrickobrian.com/) viele spannende Informationen. Da die Serie im englischen Sprachraum sehr erfolgreich ist, findet man dort auch verschiedene Bücher dazu. Eine Auswahl:    
+
++ "Patrick O’Brian: A Very Private Life" - Nikolai Tolstoy - isbn:9780008350581  
++ "A Sea of Words: A Lexicon and Companion to the Complete Seafaring Tales of Patrick O'Brian" - Dean King & John B. Hattendorf - isbn:9781453238301  
++ "The World of Jack Aubrey" - David Miller - isbn:9780762416523  
+
 ## Aspekte der Buchserie  
 
 Die kleine Welt an Bord eines Schiffes hat genau wie die grosse Welt Regeln. Die eingehalten werden müssen, damit alle auf einem "glücklichen" Schiff segeln. Vielleicht kann man das eine oder andere auf die eigene Situation übertragen. Lernen kann man in diesen Büchern viel. Nicht zuletzt weil sie mit grösster Akribie recherchiert und geschrieben wurden.  
@@ -67,5 +73,27 @@ Jack ist eine Frohnatur, liebt das barocke Leben. Stephen Maturin ist von mürri
 
 Was sie von Anfang verband, war ihr gemeinsame Liebe zur Musik die sie aktiv betreiben. Das gemeinsame Muszieren am Abend, sofern dafür Zeit war, sublimierte alle Mühen und Nöte des Tages in eine höhere Harmonie.  
 
-### Geografie  
+### "Geflügelte Worte"  
+
+Was wären "Asterix & Obelix" ohne die sich wiederholenden Aussprüch wie "Sie spinnen die Römer".  
+
+Jack Aubrey bzw. sein Autor hat zwei Aussrüchen öfters wiederholt:  
+
+>There is not a moment to lose 
+ 
+>There you are!  
+
+Das erste war quasi der Kickoff zu einem neuen Abenteuer, wo die Schiffsbesatzung innert Stunden von Heim, Herd oder Bordellen an Board musste. Aber auch die oft wiederholte Antwort, wenn sein Freund Stephen Maturin einen Zwischenstopp machen wollte, um ein Tier, Pflanze oder Gebiet zu erkunden.  
+
+Der zweite Ausspruch fiel öfters, wenn er überrascht war Stephen Maturin zu sehen. Stephen Maturin hatte eine sich verstärkende Tendenz zu einem zerstreuten Professor, so dass er manchmal "verloren" ging oder schlicht zu spät an Bord kam.  
+
+Er zitierte auch gerne sein grosses Vorbild Horatio Nelson mit dem Ausspruch
+
+ >"Never mind manoeuvres, always go at them" / Vergesst die Manöver! Immer drauf auf den Feind!  
+
+Die liebevolle Akribie und Sachkenntnis des Schrifstellers erkennt man auch daran, dass er in späteren Jahren zugibt, dass das Motto gegen die aktuelle französische Marine nicht mehr anwendbar ist. Inzwischen hatten sie erkannt, dass Artillerie in Seegefechten entscheident war. D.h. ein hitziger Angriff auf eine französische Flotte, würde durch punktgenauen Beschuss zum Desaster werden.  
+
+
+
+
 
