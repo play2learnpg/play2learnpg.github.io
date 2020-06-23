@@ -2,6 +2,7 @@
 
 ![Filmplakat: Master and Commander](/image/ja2.jpg)
 
+<span style="color:darkblue">
 Jack Aurey ist eine der fiktionalen Hauptfiguren in der Aubrey-Maturin-Reihe der Romane von Patrick O'Brian.  Die andere Hauptfigur ist sein bester Freund Stephen Maturin. Die Geschchte spielt am Anfang des 19. Jahrhunderts. Jack Aubrey ist Offizier der britischen Kriegsmarine im 19. Jahrhundert und Stepen Maturin Wissenschaftler und Arzt.
 
 ## Worin liegt der Reiz der Geschichten?  
@@ -90,14 +91,17 @@ Das erste war quasi der Kickoff zu einem neuen Abenteuer, wo die Schiffsbesatzun
 
 Der zweite Ausspruch fiel öfters, wenn er überrascht war Stephen Maturin zu sehen. Stephen Maturin hatte eine sich verstärkende Tendenz zu einem zerstreuten Professor, so dass er manchmal "verloren" ging oder schlicht zu spät an Bord kam.  
 
-Er zitierte auch gerne sein grosses Vorbild Horatio Nelson mit dem Ausspruch >"Never mind manoeuvres, always go at them" / Vergesst die Manöver! Immer drauf auf den Feind!  Die liebevolle Akribie und Sachkenntnis des Schrifstellers erkennt man auch daran, dass er Jack Aubrey in seinen späteren Jahren zugeben lässt, dass das Motto gegen die aktuelle französische Marine nicht mehr anwendbar ist. Inzwischen hatten sie erkannt, dass Artillerie in Seegefechten entscheident war. D.h. ein hitziger Angriff auf eine französische Flotte, würde durch punktgenauen Beschuss zum Desaster werden.  
+Er zitierte auch gerne sein grosses Vorbild Horatio Nelson mit dem Ausspruch
+>"Never mind manoeuvres, always go at them" / Vergesst die Manöver! Immer drauf auf den Feind!
+
+Die liebevolle Akribie und Sachkenntnis des Schrifstellers erkennt man auch daran, dass er Jack Aubrey in seinen späteren Jahren zugeben lässt, dass das Motto gegen die aktuelle französische Marine nicht mehr anwendbar ist. Inzwischen hatten sie erkannt, dass Artillerie in Seegefechten entscheident war. D.h. ein hitziger Angriff auf eine französische Flotte, würde durch punktgenauen Beschuss zum Desaster werden.  
 
 ### Quellen
 
 
 ### Hinweise  
 
-* Dieser Artikel wurde Schweizer Schriftdeutsch verfasst. Daher wird z.B. kein scharfes "s" (ẞ bzw. ß) verwendet.  
+* Dieser Artikel wurde Schweizer Schriftdeutsch verfasst. Daher wird z.B. kein scharfes "s" (ẞ bzw. ß) verwendet.  </style>
 
 
 
